@@ -1,5 +1,11 @@
+::-webkit-scrollbar {
+    overflow-x:hidden;
+}
 body, html {
     width:100vw;
+    margin: 0;
+    padding: 0;
+    overflow-x:hidden;
 }
 ul {
     list-style: none;

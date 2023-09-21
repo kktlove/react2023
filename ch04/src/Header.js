@@ -6,7 +6,7 @@ import "./Header.scss";
 
 const Header = () => {
   return (
-    <div>
+    <div className="Header">
      <Navbar bg="dark" data-bs-theme="dark">
         <Container>
           <Navbar.Brand href="#">Teaspoon</Navbar.Brand>
